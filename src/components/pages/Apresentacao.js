@@ -15,7 +15,7 @@ function Apresentacao() {
             <h4>- garantia de aquisição do seu lanche preferencial</h4>
             <h4>- facilita a compra do lanche de seus filhos na(s) escola(s)</h4>
             <div className={styles.botoes}>
-                <LinkButton text="Cadastrar cantina"/>
+                <LinkButton text="Cadastrar cantina" to="/FormCadastroCantina"/>
             </div>
         </section>
     )
