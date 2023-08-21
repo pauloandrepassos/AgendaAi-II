@@ -1,4 +1,9 @@
 .apresentacao {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
     width: 100%;
     text-align: center;
     padding-top: 20px;
@@ -13,7 +18,7 @@
 .apresentacao h2 {
     font-family: 'Roboto', cursive;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     color: #FA240F;
     padding: 0 50px 0 50px;
 }
@@ -23,15 +28,39 @@
     font-size: 20px;
 }
 
-.apresentacao h3 {
-    margin-top: 25px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 23px;
+.vantagens h3 {
+    font-size: 1.5rem;
+}
+
+.vantagens ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+    text-align: left;
+    color: #FA240F
+}
+
+.passosSimples {
+    margin-top: 40px;
+    text-align: left;
+}
+
+.passosSimples h3 {
+    font-size: 1.5rem;
+}
+
+.passosSimples ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+    margin-top: 10px;
     color: #FA240F;
 }
 
-.apresentacao h4 {
-    color: #FA240F;
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
+.apresentacao .img {
+    width: 300px;
+    margin: auto;
+}
+
+.img img {
+    width: 100%;
 }

@@ -18,14 +18,18 @@
 .item a {
     color: #fff;
     text-decoration: none;
+    font-size: 22px;
 }
 
 .item a:hover {
     color: #D8FFDB;
+    text-decoration: underline;
+    transform: scale(1.2);
 }
 
 .logo {
     width: 80px;
+    
 }
 
 .logo img {
