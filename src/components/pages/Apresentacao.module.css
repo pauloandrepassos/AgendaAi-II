@@ -1,12 +1,10 @@
 .apresentacao {
-    
     display: flex;
     flex-direction: column;
     align-items: center;
-
     width: 100%;
     text-align: center;
-    padding-top: 20px;
+    padding: 20px;
 }
 
 .apresentacao h1 {

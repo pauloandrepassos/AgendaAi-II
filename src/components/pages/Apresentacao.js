@@ -21,7 +21,7 @@ function Apresentacao() {
                     <li>Praticidade ao agendar a compra do seu lanche</li>
                     <li>Menor tempo gasto ao resgatar o lanche na cantina</li>
                     <li>Garantia de adquirir seu lanche preferencial</li>
-                    <li>Facilita a compra do lanche de seus filhos na(s) escola(s)</li>
+                    <li>Facilidade na compra do lanche de seus filhos na(s) escola(s)</li>
                 </ul>
             </div>
             <div className={styles.passosSimples}>
