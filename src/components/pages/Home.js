@@ -20,16 +20,16 @@ function Home() {
                 </div>
             </div>
             <div className={styles.lanchonetes}>
-                <Link to="/">
+                <Link to="/Cantina">
                     <CardLanchonete />
                 </Link>
-                <Link to="/">
+                <Link to="/Cantina">
                     <CardLanchonete />
                 </Link>
-                <Link to="/">
+                <Link to="/Cantina">
                     <CardLanchonete />
                 </Link>
-                <Link to="/">
+                <Link to="/Cantina">
                     <CardLanchonete />
                 </Link>
             </div>
