@@ -10,7 +10,7 @@ function Apresentacao() {
                 <h2>Não espere pelo lanche, faça ele esperar por você!</h2>
             </div>
             <div className={styles.botoes}>
-                <LinkButton to='/Home' text="Entrar" />
+                <LinkButton to='/Login' text="Entrar" />
             </div>
             <div className={styles.img}>
                 <img src={logo} alt="" />
