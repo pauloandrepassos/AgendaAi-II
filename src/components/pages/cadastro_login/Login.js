@@ -28,7 +28,7 @@ function Login () {
                 
                 <div>
                     <span>Não possui conta ainda?</span>
-                    <Link to='./Cadastro'>Criar conta</Link>
+                    <Link to='/Cadastro'>Criar conta</Link>
                 </div>
             </div>
         </div>
